@@ -1,0 +1,422 @@
+@media (max-width:410px){
+    .container{
+        width: 90%;
+    }
+    a{
+        display: none;
+    }
+    .start3{
+        
+        gap: 10px;
+    }
+    .start3 button{
+        width: 90px;
+    height: 40px;
+}
+.start3 button:hover{
+    transform: scale(1.1);
+}
+
+    .img1{
+        width: 401px;
+        height: 260px;
+    }
+    .blok{
+        display: flex;
+        flex-direction: column;
+    width: 300px;
+   margin: -160px -270px;
+    height: 360px;
+    }
+    .blok1{
+        display: flex;
+        gap: 30px;
+    }
+    .blok2{
+        display: flex;
+    }
+    .square-display{
+        display: flex;
+        flex-direction: column;
+        padding: 220px 0 20px;
+    }
+    
+
+    .duration{
+        padding: 0px;
+        transform: translate(-15px);
+    }
+    .blok-5{
+transform: translate(-15px);
+    }
+    .blok-5 img{
+        margin: 0 10px;
+    }
+    
+    .duration h4{
+        
+        text-align: center;
+        font-size: 20px;
+       transform: translate(-10px);
+    }
+    .blok1 img{
+        transform: translate(-20px);
+       
+    }
+    
+    
+    .blok-display{
+        display: flex;
+        flex-direction: column;
+        gap: 40px;
+        transform: translateY(-20px);
+    }
+    .info{
+      margin: 0 -104px;
+    }
+    .duration3{
+        transform: translate(140px);
+    }
+    
+    
+    .text h1{
+       transform: translate(-350px);
+       padding: 120px 40px;
+
+text-align: center;
+
+font-size: 15px;
+
+      
+       
+
+    }
+    .blok{
+        
+        width: 310px;
+    height: 320px;
+   
+    
+    transform: translate(290px);
+    }
+    .blok2 img{
+        transform: translate(-20px);
+    }
+    .medium h1{
+        
+        
+        font-size: 26px;
+        
+    }
+    .medium p{
+       
+    font-size: 10px;
+    }
+    .square{
+        width: 310px;
+    height: 115px;
+    
+    }
+    .square img{
+        width: 310px;
+    height: 115px; 
+    }
+    .square2{
+        width: 320px;
+        height: 450px;
+    
+    }
+    .description h1{
+        
+    font-size: 24px;
+   margin: 0 -90px;
+    
+    }
+    .square2 h2{
+        font-size: 24px;
+    
+    }
+    .png1{
+        transform: translate(100px);
+     padding: 15px 0;
+        position: absolute;
+        width: 250px;
+        }
+        .travel{
+            width: 320px;
+            height: 468px;
+            
+        }
+        .travel2 {
+            padding: 120px 0;
+        }
+        
+        .photo1{
+            width: 320px;
+            height: 160px;
+            position: absolute;
+transform: translate(-0px);
+        }
+        .travel-display p{
+            
+        font-size: 10px;
+       
+        }
+        .depley{
+            display: flex;
+            flex-direction: column;
+            gap: 10px;
+        }
+        .depley1{
+            display: flex;
+            flex-direction: column;
+            gap: 10px;
+        }
+        .travel-display{
+           transform: translateY(-130px);
+        }
+
+        .travel-display h5{
+           
+         gap: 10px;   
+        font-size: 16px;
+        
+        }
+        .dsp img{
+            width: 320px;
+           height: 160px;
+        }
+        .african{
+            width: 320px;
+            height: 618px;
+        }
+        .dsp{
+            
+            flex-direction: column;
+        }
+        .car{
+            display: flex;
+            flex-direction: column;
+        }
+        .text-abcolud{
+            padding: 165px 10px;
+            display: flex;
+            flex-direction: column;
+            gap: 2px;
+            transform: translate(0);
+        }
+        .text-abcolud1 h5{
+            font-size: 16px;
+       
+        }
+        .btn-start button{
+            width: 220px;
+            height: 40;
+            margin: 0 -120px;
+            font-size: 16px;
+      
+        }
+        .btn-start button:hover{
+            transform: scale(1.1);
+        }
+        .sw-start h1{
+          display: flex;
+          flex-direction: column;
+          align-items: center;  
+        font-size: 24px;
+        margin: -40px 0;
+        transform: translate(0px);
+        }
+        .btn1{
+          transform: translate(-220px);
+        padding: 150px 0 10px;
+           
+        }
+        .swiper-slide img{
+            display: flex;
+            flex-direction: column;
+            width: 320px;
+            height: 410px;
+        }
+
+        .car{
+            display: flex;
+            gap: 10px;
+        }
+        .car h5{
+            
+            font-size: 16px;
+           
+        }
+        .programa h2{
+            
+        font-size: 24px;
+       
+        }
+        .programa{
+            transform: translate(-5px);
+            padding: 0px 0;
+        }
+        .detail{
+            width: 320px;
+height: 111px;
+        }
+        .development{
+    
+            margin: 60px  -60px;
+            transform: translateY(-20px);
+           
+        }
+        .work img{
+            transform: translate(70px);
+
+        }
+        .work2 img{
+            transform: translate(50px);
+
+        }
+        .words-dsp{
+            display: flex;
+            flex-direction: column;
+            transform: translate(-125px);
+        }
+        .words-dsp h2{
+            
+        font-size: 24px;
+        
+        }
+        .work1{
+            padding: 800px 0 20px;
+          transform: translate(-10px);
+            display: flex;
+            align-items: center;
+            flex-direction: column;
+          
+        }
+        .work h4{
+           text-align: center;
+            font-size: 16px;
+            
+        }
+        .work p{
+        text-align: center;
+        font-size: 14px;
+        
+        }
+        .arrow img{
+            width: 300px;
+            height: 350px;
+        }
+        .arrow1{
+            
+            width: 10px;
+         height: 100px;
+        }
+        .email-dsp{
+            display: flex;
+            flex-direction: column;
+            transform: translate(-5px);
+        }
+        .button-dsp{
+            display: flex;
+            flex-direction: column;
+        }
+        .name1 input{
+            width: 310px;
+height: 40px;
+        }
+        .name input{
+            width: 230px;
+            height: 40px;
+        
+        }
+        .img-kg{
+            padding: 10px 0;
+        }
+        .left h2{
+            
+        font-size: 24px;
+        
+        }
+        .left p{
+            
+            font-size: 16px;
+            
+        }
+        .button-dsp button{
+            width: 200px;
+            height: 40px;
+        transform: translate(-4px);
+        font-size: 18px;
+        
+        
+        }
+        .into{
+            display: flex;
+        }
+        .elipse{
+            
+            width: 200px;
+            height: 200px;
+       
+        
+        }
+        .patience-dsp{
+            display: flex;
+            flex-direction: column;
+            transform: translate(-5px);
+        }
+        .patience-dsp h2{
+           
+            font-size: 24px;
+            
+        }
+        .interrogative{
+            width: 29px;
+            height: 59px;
+        }
+       
+        .povar img{
+            width: 350px;
+            stroke-width: 0.5px;
+stroke: #9099A3;
+        }
+        .ptcn-dsp{
+            transform: translateY(-70px);
+        }
+        .ftend{
+            display: flex;
+            flex-direction: column;
+            gap: 10px;
+            transform: translate(-5px);
+        }
+        .said-btn {
+            display: flex;
+        }
+        .said-btn img{
+            width: 210px;
+            height: 74px;
+        }
+        .foot{
+            display: flex;
+            flex-direction: column;
+            transform: translate(-60px);
+        }
+        .footer-img{
+            display: flex;
+            flex-direction: column;
+            transform: translate(-5px);
+        }
+        .visa{
+            transform: translate(40px);
+            padding: 10px;
+        }
+        .psh{
+           transform: translateY(-200px);
+        }
+        .watch{
+            padding: 80px 0 60px;
+            
+        }
+
+}
